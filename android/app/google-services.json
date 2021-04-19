@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034594634150",
+    "project_id": "contador-1a0cd",
+    "storage_bucket": "contador-1a0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034594634150:android:2d90dd78e2211678456767",
+        "android_client_info": {
+          "package_name": "com.contador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034594634150-1g6uo489226ls05jc0quat09fsvvf5j7.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.contador",
+            "certificate_hash": "8f38267f8de1ae2b6d1cd9034e70d8de3b565d3a"
+          }
+        },
+        {
+          "client_id": "1034594634150-lahqtkcvk7nlo435qljil735979vukcb.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.contador",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1034594634150-4ksatpcjj4p6c91tjans3pk9ch8npp0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ywHdaViE4QNIFtu-lKg1wjnw-uzIcJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034594634150-4ksatpcjj4p6c91tjans3pk9ch8npp0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
